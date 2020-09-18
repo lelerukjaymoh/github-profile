@@ -1,2 +1,15 @@
 # github-profile
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lelerukjaymoh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/lelerukjaymoh">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=lelerukjaymoh&theme=radical&show_icons=true&count_private=true" />
+</a>
+
+<a href="https://github.com/lelerukjaymoh">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lelerukjaymoh&repo=django-startproject&show_owner=true&theme=algolia" />
+</a>
+
+<a href="https://github.com/lelerukjaymoh">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelerukjaymoh" />
+</a>
+
+
