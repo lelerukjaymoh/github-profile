@@ -5,11 +5,13 @@
 </a>
 
 <a href="https://github.com/lelerukjaymoh">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=lelerukjaymoh&repo=django-startproject&show_owner=true&theme=algolia" />
+  <img align="right" src="https://github-readme-stats-git-master.lelerukjaymoh.vercel.app
+/api/pin/?username=lelerukjaymoh&repo=django-startproject&show_owner=true&theme=algolia" />
 </a>
 
+<br><br><br>
 <a href="https://github.com/lelerukjaymoh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelerukjaymoh" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelerukjaymoh" />
 </a>
 
 
